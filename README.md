@@ -1,6 +1,6 @@
 # Adasi CI4 Express
 
-Utilities package used in Adasi Software's CodeIgniter 4 projects.
+Twig package used in Adasi Software's CodeIgniter 4 projects.
 
 ## Requirements
 
@@ -16,4 +16,4 @@ Utilities package used in Adasi Software's CodeIgniter 4 projects.
 
 Installation is best done via Composer. Assuming Composer is installed globally, you may use the following command:
 
-<code>composer require adasi/ci4-express</code>
+<code>composer require adasi/ci4-twig</code>
